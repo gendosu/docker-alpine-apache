@@ -2,7 +2,7 @@
 #
 # VERSION               0.0.1
 
-FROM      gendosu/alpine-base:latest
+FROM      gendosu/alpine-base:3.2
 
 MAINTAINER Gen Takahashi <gendosu@gmail.com>
 
