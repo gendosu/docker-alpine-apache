@@ -6,7 +6,7 @@ It's on [docker-hub](https://hub.docker.com/r/gendosu/alpine-apache) and [github
 
 ## tags and links
 
- * `latest` [(Dockerfile)](https://github.com/gendosu/docker-alpine-apache/blob/master/Dockerfile) [![Build Status](https://travis-ci.org/gendosu/docker-alpine-apache.svg?branch=master)](https://travis-ci.org/gendosu/docker-alpine-apache)
+ * `latest` [(Dockerfile)](https://github.com/gendosu/docker-alpine-apache/blob/master/Dockerfile) [![Build Status](https://travis-ci.org/gendosu/docker-alpine-apache.svg?branch=3.4)](https://travis-ci.org/gendosu/docker-alpine-apache)
 
 ## running
 
